@@ -4,7 +4,7 @@
 
 <p align="center"
   
-[rentry](https://rentry.co/patriot) [discord](https://discordapp.com/users/794646333821681674) [pronouns](https://pronouns.cc/@sherly)
+[rentry](https://rentry.co/patriot) [discord](https://discordapp.com/users/794646333821681674) [attabook](https://moriarty.atabook.org/)
 
 <br>
 
