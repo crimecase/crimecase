@@ -4,7 +4,7 @@
 
 <p align="center"
   
-[![rentry](https://files.catbox.moe/caa560.png)](https://rentry.co/sherlocks) 　[![discord](https://files.catbox.moe/0rye08.png)](https://discordid.netlify.app/?id=794646333821681674) 　[![atabook](https://files.catbox.moe/6ulfqp.png)](https://moriarty.atabook.org/)
+[![rentry](https://files.catbox.moe/uzgwut.png)](https://rentry.co/sherlocks) 　[![discord](https://files.catbox.moe/eji0ss.png)](https://discordid.netlify.app/?id=794646333821681674) 　[![atabook](https://files.catbox.moe/56ynwr.png)](https://moriarty.atabook.org/)
 
 <br>
 
