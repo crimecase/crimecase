@@ -15,4 +15,4 @@
 <img src="https://files.catbox.moe/lqprwj.webp"/>
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=cupidscharm&color=191919&label=clients&style=plastic)
+![](https://komarev.com/ghpvc/?username=cupidscharm&color=191919&label=sinners&style=plastic)
