@@ -14,5 +14,5 @@
 <img src="https://files.catbox.moe/5bd011.webp"/>
 <img src="https://files.catbox.moe/lqprwj.webp"/>
 <p align="center">
-  
-![](https://komarev.com/ghpvc/?username=cupidscharm&color=191919)
+
+![](https://komarev.com/ghpvc/?username=cupidscharm&color=191919&label=clients&style=plastic)
