@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/frt1e8.gif" />
+  <img src="https://files.catbox.moe/84wxxv.gif" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center"
   
-[![rentry](https://files.catbox.moe/m5o561.png)](https://rentry.co/sherlocks)⠀⠀ 　 [![discord](https://files.catbox.moe/vrzq0j.png)](https://discordid.netlify.app/?id=794646333821681674)⠀  ⠀　[![atabook](https://files.catbox.moe/kkxxk9.png)](https://moriarty.atabook.org/)
+[![rentry](https://files.catbox.moe/q2efqv.png)](https://rentry.co/sherlocks)⠀⠀ 　 [![discord](https://files.catbox.moe/dhxa4y.png)](https://discordid.netlify.app/?id=794646333821681674)⠀  ⠀　[![atabook](https://files.catbox.moe/82wx70.png)](https://moriarty.atabook.org/)
 
 <br>
 
