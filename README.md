@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=cupidscharm&color=201818&label=sinners&style=plastic)
 
 <p align="center">
-  <img src="https://files.catbox.moe/84wxxv.gif" />
+  <img src="https://files.catbox.moe/gu27aa.gif" />
 </p>
 
 <p align="center">
