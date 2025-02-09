@@ -1,14 +1,8 @@
-![Profile views](https://komarev.com/ghpvc/?username=cupidscharm&color=f7e5cc&label=cuties&style=plastic)
-
-
 <p align="center">
-  <img src="https://files.catbox.moe/cnqacr.png" />
+  <img src="https://files.catbox.moe/mthu8t.png" />
 </p>
 
-<p align="center"
-  
+<p align="center" 
 
-<br>
-
-
+[![:3](https://files.catbox.moe/7lz1f2.png)](https://rentry.co/msby) 
 
