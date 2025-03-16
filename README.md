@@ -8,7 +8,7 @@
 
 <p align="center" 
   
-[![:3](https://files.catbox.moe/7lz1f2.png)](https://rentry.co/tianhe) 
+[![:3](https://files.catbox.moe/3x84z1.png)](https://rentry.co/tianhe) 
 
 ⠀⠀⠀   ⠀⠀⠀   ⠀⠀⠀   
 
