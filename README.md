@@ -2,7 +2,7 @@
 ⠀⠀⠀   
 ⠀⠀⠀   
 <p align="center">
-  <img src="https://files.catbox.moe/vazzfc.png" />
+  <img src="https://files.catbox.moe/admdq0.png" />
 </p>
 ⠀⠀⠀   
 
