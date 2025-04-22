@@ -3,6 +3,6 @@
 
 <p align="center" 
   
-[![:3](https://files.catbox.moe/x825p6.png)](https://rentry.co/johsai) 
+[![:3](https://files.catbox.moe/x825p6.png)](https://rentry.co/sherliam) 
 
 ⠀⠀⠀   ⠀⠀⠀   ⠀⠀⠀   
