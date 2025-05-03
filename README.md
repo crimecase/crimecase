@@ -2,7 +2,5 @@
 ⠀⠀⠀  
 
 <p align="center" 
-  
-[![:3](https://files.catbox.moe/x825p6.png)](https://rentry.co/sherliam) 
 
-⠀⠀⠀   ⠀⠀⠀   ⠀⠀⠀   
+![Description](https://files.catbox.moe/k6t43k.gif)
