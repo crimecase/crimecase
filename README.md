@@ -3,4 +3,4 @@
 
 <p align="center" 
 
-![Description](https://files.catbox.moe/k6t43k.gif)
+![Description](https://files.catbox.moe/2uh93n.jpg)
